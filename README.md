@@ -1,7 +1,9 @@
 # Password Generator
 
 ## Introduction
-This project my attemp to replicate some functionality of Sentinel (Password Manager built using Java). In addition, it was an opportunity for me to get comfortable with the C# language.
+This project is an attemp to replicate some functionality of [Sentinel](https://github.com/IamNirvan/Sentinel). In addition, it was an opportunity for me to get comfortable with the C# language.
+
+The implemented password generation engine is called Viper. 
 
 **Version: 1.0.0** <br>
 **Implemented language:** C#<br>
