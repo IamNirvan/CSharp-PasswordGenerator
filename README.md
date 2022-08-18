@@ -1,7 +1,7 @@
 # Password Generator
 
 ## Introduction
-This project is an attemp to replicate some functionality of [Sentinel](https://github.com/IamNirvan/Sentinel). In addition, it was an opportunity for me to get comfortable with the C# language.
+This project is an attempt to replicate some functionality of [Sentinel](https://github.com/IamNirvan/Sentinel). In addition, it was an opportunity for me to get comfortable with the C# language.
 
 The implemented password generation engine is called Viper. 
 
